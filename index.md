@@ -1,37 +1,195 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="theme-color" content="#000000" />
+	<link rel="icon" href="favicon.ico" type="image/x-icon"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Noto+Sans+SC&display=swap" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Noto+Sans+SC&display=swap"
+      media="print"
+      onload="this.media='all'"
+    />
+    <noscript>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+SC&display=swap" />
+    </noscript>
+    <title>First.com</title>
+    <style type="text/css">
+      /* reset css */
+      html,
+      body,
+      div,
+      h1,
+      p,
+      a,
+      img {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+      }
 
-You can use the [editor on GitHub](https://github.com/hhieu02/hhieu02.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+      body {
+        line-height: 1;
+      }
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
 
-### Markdown
+      html,
+      body {
+        overflow-x: hidden;
+        font-size: 10px;
+        background-color: #111212;
+        font-family: 'Noto Sans', sans-serif;
+        font-family: 'Noto Sans SC', sans-serif;
+        font-weight: 400;
+      }
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
 
-```markdown
-Syntax highlighted code block
+      a:visited {
+        text-decoration: none;
+      }
+    </style>
+    <style type="text/css">
+      .App {
+        display: flex;
+        flex-direction: column;
+        min-height: 100%;
+        position: relative;
+      }
 
-# Header 1
-## Header 2
-### Header 3
+      @media (min-width: 481px) {
+        .App {
+          min-height: 76.8rem;
+        }
+      }
 
-- Bulleted
-- List
+      .Logo--center {
+        display: block;
+        text-align: center;
+      }
 
-1. Numbered
-2. List
+      .MainPage {
+        display: flex;
+        flex-direction: column;
+        background: top/cover no-repeat url('images/background.jpeg');
+        color: #f7f4f3;
+        padding-top: 6.4rem;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        min-height: 100%;
+        height: 100vh;
+      }
 
-**Bold** and _Italic_ and `Code` text
+      @media (max-width: 479px) {
+        .MainPage {
+          min-height: 76.8rem;
+        }
+      }
 
-[Link](url) and ![Image](src)
-```
+      .MainPage_logo {
+        width: 16rem;
+      }
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+      .MainPage_wrapper {
+        margin-top: 18rem;
+        text-align: center;
+      }
 
-### Jekyll Themes
+      @media (max-width: 479px) {
+        .MainPage_wrapper {
+          padding: 0 2.7rem;
+        }
+      }
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hhieu02/hhieu02.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    .MainPage_image {
+        width: 32.0rem;
+      }
 
-### Support or Contact
+      @media (max-width: 479px) {
+        .MainPage_image {
+          width: 16rem;
+        }
+      }
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+      .MainPage_title {
+        font-family: Noto Sans SC;
+        font-size: 6.0rem;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #ffffff;
+      }
+
+      .Page_phrase {
+        font-family: Noto Sans SC;
+        font-size: 2.4rem;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #ffffff;
+        margin: 1.6rem auto 0;
+        max-width: 68rem;
+      }
+
+      .MainPage_copyright {
+        font-family: Noto Sans SC;
+        font-size: 1.9rem;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #ffffff;
+        margin: 1.6rem auto 0;
+        max-width: 48rem;
+        margin-top: auto;
+        text-align: center;
+        padding-bottom: 7.6rem;
+      }
+    </style>
+  </head>
+  <body cz-shortcut-listen="true">
+    <div id="root">
+      <div class="App">
+      <div class="MainPage">
+
+
+          <div class="MainPage_wrapper">
+
+            <h1 class="MainPage_title">First.com</h1>
+            <p class="Page_phrase">
+              First.com is reserved for our Future Project
+            </p></br></br></br>
+			<p id="MainPage_copyright" class="MainPage_copyright"></p>
+          </div>
+         </div>
+      </div>
+    </div>
+    <script type="text/javascript">
+      ;(function t() {
+        var copyright = `© ${new Date().getFullYear()}  Hello@First.com`
+        document.getElementById('MainPage_copyright').innerHTML = copyright
+      })()
+    </script>
+  </body>
+</html>
