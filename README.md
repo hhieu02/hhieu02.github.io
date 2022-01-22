@@ -6,7 +6,7 @@
    </head>
 
    <body>
-      <div style="font-size: 76pt; font-family: sans-serif; font-weight: bold; position: fixed; top: 45%; width: 100%; text-align: center;" title="Probably not...">No.</div>
+      <div style="font-size: 76pt; font-family: sans-serif; font-weight: bold; position: fixed; top: 45%; width: 100%; text-align: center;" title="Probably not...">Hiếu đẹp trai.</div>
    </body>
 
 </html>
