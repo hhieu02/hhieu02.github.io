@@ -1,4 +1,3 @@
-
 <!DOCTYPE html><html><head><title>Is my computer on fire?</title><meta name="viewport" content="width=device-width, initial-scale=1.0"><style>h1 {
   font-size: 76px;
   line-height: 76px;
