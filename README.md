@@ -1,15 +1,198 @@
-<!DOCTYPE html><html lang="vi" style="--main:#FB2D5A;--main-text:#FFFFFF"><head><link rel="stylesheet" href="libs/animate.min.css"/><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-163324060-25"></script><script>
-            window.seller_id = 31012;
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'UA-163324060-25', {
-              transport_type: 'beacon',
-              custom_map: {
-                    dimension1: 'Seller ID',
-                    dimension2: 'post_link_id',
-                    dimension3: 'use_origin'
-                },
-                'Seller ID': '31012'
-            });
-          </script><meta charSet="utf-8"/><meta name="viewport" content="minimum-scale=1, initial-scale=1, user-scalable=0, width=device-width, shrink-to-fit=no, maximum-scale=1.0"/><title>hhieu02 | Social Selling Platform</title><meta name="keywords" content=""/><meta name="description" content=""/><meta name="classification" content="Ecomobi - Social selling platform"/><meta name="copyright" content="©2021 https://ecomobi.com"/><meta name="owner" content="https://ecomobi.com"/><meta name="revisit-after" content="1 days"/><meta name="og:title" content="hhieu02"/><meta name="og:image" content=""/><meta name="mobile-web-app-capable" content="yes"/><meta name="theme-color" content="#53cfff"/><meta name="apple-mobile-web-app-capable" content="yes"/><meta name="og:description" content=""/><meta name="og:type" content="website"/><meta name="og:site_name" content="Ecomobi"/><meta name="og:url" content="https://hhieu02.kol.eco"/><meta name="next-head-count" content="4"/><link rel="preload" href="/_next/static/css/cba1d95938e3b0a2ad84.css" as="style"/><link rel="stylesheet" href="/_next/static/css/cba1d95938e3b0a2ad84.css" data-n-g=""/><noscript data-n-css=""></noscript><script defer="" nomodule="" src="/_next/static/chunks/polyfills-a40ef1678bae11e696dba45124eadd70.js"></script><script src="/_next/static/chunks/webpack-f639bea47857a8177f58.js" defer=""></script><script src="/_next/static/chunks/framework-e334e81355f966b4ebb0.js" defer=""></script><script src="/_next/static/chunks/main-e9ff0426e5082faf6bed.js" defer=""></script><script src="/_next/static/chunks/pages/_app-56f573d9f52998e60af8.js" defer=""></script><script src="/_next/static/chunks/pages/index-3e146e51fa978dcd3954.js" defer=""></script><script src="/_next/static/QLyWx5N_tYVX9rivw5iMe/_buildManifest.js" defer=""></script><script src="/_next/static/QLyWx5N_tYVX9rivw5iMe/_ssgManifest.js" defer=""></script></head><body><div id="__next"><div style="background-image:linear-gradient(180deg, #53cfff 0%, #7effa3 100%);background-position:center center;background-repeat:no-repeat;pointer-events:none;background-size:cover;top:0;left:0;width:100vw;height:100vh;position:fixed;z-index:-10"></div><div class="theme-ecomobi-container min-h-screen container max-w-mobile lg:max-w-desktop md:max-w-tablet mx-auto w-full" style="--page_color_buttonColor:#FB2D5B;--page_color_buttonTextColor:#1C3955;--page_color_blockColor:#ffffff;--page_color_textColor:#1C3955;--page_color_linkColor:#FFFFFF;--background_backgroundImage:linear-gradient(180deg, #53cfff 0%, #7effa3 100%);--background_backgroundColor:#fff"><div class="hidden"><div><div class="alice-carousel"><div><div style="padding-left:0px;padding-right:0px" class="alice-carousel__wrapper"><ul style="transition:transform 0ms ease 0ms;transform:translate3d(0px, 0, 0)" class="alice-carousel__stage"><li style="width:0" class="alice-carousel__stage-item __cloned"><img src="/default-img/placeholder-wide.png" alt="" class="style_sliderImage__2SPHq" style="cursor:default"/></li><li style="width:0" class="alice-carousel__stage-item __active __target"><img src="/default-img/placeholder-wide.png" alt="" class="style_sliderImage__2SPHq" style="cursor:default"/></li><li style="width:0" class="alice-carousel__stage-item __cloned"><img src="/default-img/placeholder-wide.png" alt="" class="style_sliderImage__2SPHq" style="cursor:default"/></li></ul></div></div><div class="alice-carousel__prev-btn"><div class="alice-carousel__prev-btn-wrapper"><p class="alice-carousel__prev-btn-item __inactive"><span data-area="&lt;"></span></p></div></div><div class="alice-carousel__next-btn"><div class="alice-carousel__next-btn-wrapper"><p class="alice-carousel__next-btn-item __inactive"><span data-area="&gt;"></span></p></div></div></div></div></div><div class="Profile_wrap__3mFw_"><div class="Profile_avatar__3P86K Profile_noBanner__2hoMm text-center"><div class="border-solid border-2 md:border-4 border-white rounded-full bg-white overflow-hidden relative"><img src="/images/placeholder-square.png" alt="hhieu02" width="178" height="178" class="object-cover"/></div></div><div class="Profile_info__2fFf-"><h4 style="color:#1C3955" class="Profile_username__oGqRJ">hhieu02</h4><div data-grabbing="false" class="Profile_channelIcons__peXVs"><div class="flex"><a style="color:#1C3955" href="https://www.youtube.com/c/hhieu02" title="youtube"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="12" fill="#FF0000"></circle><path d="M9.60742 15.6094L15.8544 12.0114L9.60742 8.41333V15.6094Z" fill="white"></path></svg></a><a style="color:#1C3955" href="https://www.facebook.com/hhieu02" title="facebook"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="12" fill="#475993"></circle><path d="M14.078 7.44709H15.273V5.53909C15.0668 5.51309 14.3578 5.45459 13.532 5.45459C11.8091 5.45459 10.6288 6.44809 10.6288 8.27409V9.95459H8.72754V12.0876H10.6288V17.4546H12.9599V12.0881H14.7843L15.0739 9.95509H12.9594V8.48559C12.9599 7.86909 13.141 7.44709 14.078 7.44709Z" fill="white"></path></svg></a></div></div></div></div><span class="style_loaderContainer__1aTRz"><style data-emotion="css ih8khy animation-12jek8e">.css-ih8khy{position:relative;width:64.28571428571429px;height:64.28571428571429px;-webkit-animation:animation-12jek8e 0.6s 0s infinite linear;animation:animation-12jek8e 0.6s 0s infinite linear;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards;}@-webkit-keyframes animation-12jek8e{100%{-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);}}@keyframes animation-12jek8e{100%{-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);}}</style><span class="css-ih8khy"><style data-emotion="css 1vjmnk animation-12jek8e">.css-1vjmnk{width:7.142857142857143px;height:7.142857142857143px;border-radius:100%;background-color:#000000;opacity:0.8;position:absolute;top:21.428571428571427px;-webkit-animation:animation-12jek8e 0.6s 0s infinite linear;animation:animation-12jek8e 0.6s 0s infinite linear;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards;}@-webkit-keyframes animation-12jek8e{100%{-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);}}@keyframes animation-12jek8e{100%{-webkit-transform:rotate(360deg);-moz-transform:rotate(360deg);-ms-transform:rotate(360deg);transform:rotate(360deg);}}</style><span class="css-1vjmnk"></span><style data-emotion="css 2sxton">.css-2sxton{width:50px;height:50px;border-radius:100%;border:7.142857142857143px solid #000000;opacity:0.1;box-sizing:content-box;position:absolute;}</style><span class="css-2sxton"></span></span></span><footer class="flex flex-col justify-end flex-grow pb-1-safe style_footerContainer__rRR7v"><div class="px-4 text-center w-full bg-white mt-4 style_copyRightContainer__1FMxg"><div class="max-w-mobile lg:max-w-desktop md:max-w-tablet mx-auto w-full relative"><div class="border-t py-2 text-ls text-secondary safe-bottom-4 undefined"><span>Copyright © 2020</span><a href="https://kol.eco?__r=ladi" style="color:#f95050;margin-left:0.25em" target="_blank" rel="noreferrer">Ecomobi</a></div></div></div></footer><div class="fixed right-0 mr-4 z-100 items-end style_floatingBottom__3AdCQ"><div><div class="cursor-pointer style_hide__ESmP6"><img alt="" width="56" height="56" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAMAAADVRocKAAAAkFBMVEUAAAAAAABhYWEAAACvr68AAAAAAAAAAAAAAAAAAAAAAAC4uLgAAAAAAAAAAAAAAAAAAAD8/Pz7+/sxMTEPDw8AAAAAAAAAAAAAAAAAAADn5+dUVFQnJyfs7Ox1dXU9PT1aWlr+/v7p6enj4+OHh4eBgYF8fHz39/fz8/O1tbWrq6uOjo5ubm7Ly8uSkpL///9nhmplAAAAL3RSTlNmAIRSrR1iXiMVBbRjV0M5KPr3c2lNPzQNCN5/cOWMd4H84dqVko/y7rCqmYnDmzThZhYAAAKCSURBVGjezZppc6JAEIZfM5lzuVQUz11ds0eyB///360BKiRZZXqArvh8oCg/9FPgDNXT3ZiQcNYUiYi1ApSORVIY6yYkQAguU4ELiFS64QKXLSJcJVpkbpBAJgoeVCJ7C4wACWF6CbIYZOIsWGAFghA2SLBeIpjlmi6QGj3QkipI0ZOUJFgJ9Eas/AKrMQBtfQKpMAgluwUmwkAi0yUwGAFzXSAjjEAkrwmswigoe1mw0hgJvbooEBgNcUmQYkTS/wUSoyLfC9Yao6LX7wRLjMzyrcBidOwbgcDoiNeCDAxkrwQxGIhbgQEL5kUgwIKoBKF7LN/uQEU2ggR0dqfpj88gktQCp0Lil2U5oxqUqwQZyMw3ZRliyCrBIih+bfgOEotngYuC4jeGb6AQubNAgsiXr2XNlG6QZ0EaEn/6eL782T/fPYBAehYIYvw66t35+qm5J+01uID4swdUguZpfsGPgwWF7b5+740Ac6rBwoBAvq/XZiN4WVH+/WBQkB5gWsVvBY3hHj4KJKQnOJX1F6gVYHc6zrbwkUCAZPg9Rytof/MiEINMK6ATQ/MKNBSvQAG8ArAL2F8R+5/Mv0wFr0Ag4RUkKBDE4ViWj6BTwCCI3c/qI03GwCKM+d8DArBwYMVhIsCIqNIWRtIq8WJE1qkjG5HzJb+Hp3svT9vu5HeSda56ArNdd/ruVFe6QmC6vXoA8R2h8s2x9HLc5LhM4j8E5oc7L4ccV5Dcx1j2gzh3KYG9GMJdzmEvSHGX1NiLgtxlTe7CLHdpmb04zl3e525QcLdYuJtE3G0u7kbdx7caBzVLb6Xd27dhfUst9/ChgVsce6APbtzy6An/8Mzw8Z9/3JpOBDCavzkAAAAASUVORK5CYII="/></div></div></div></div></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"profile":{"id":31012,"name":"hhieu02","avatar":null,"cover":null,"country":"VN","bio":null,"description":null,"setting":null,"theme_id":null,"settings":null,"avatarWidth":null,"avatarHeight":null,"theme_name":"ecomobi","channels":[{"id":54315,"name":"","channel_type":"youtube","url":"https://www.youtube.com/c/hhieu02"},{"id":54314,"name":"","channel_type":"facebook","url":"https://www.facebook.com/hhieu02"}],"domain":"hhieu02.kol.eco","flatforms":[],"meta":{"id":31026,"domain":"hhieu02.kol.eco","seller_id":31012,"meta":{"ga_id":"UA-163324060-25"}},"tabs":[]},"banners":[],"ads":[],"themeConfig":{"block_style":{"borderRadiusType":"square","borderRadiusValue":null,"borderRadius":"0px","showBoxShadow":false,"showBorder":false,"border":null,"transparencyLevel":false,"boxShadow":null},"background":{"backgroundType":"color","imageUrl":null,"videoUrl":null,"color1":"#53cfff","color2":"#7effa3","gradientType":"linear","backgroundImage":"linear-gradient(180deg, #53cfff 0%, #7effa3 100%)","backgroundColor":"#fff","backgroundFilter":"none"},"page_color":{"blockColor":"#ffffff","textColor":"#1C3955","buttonTextColor":"#1C3955","buttonColor":"#FB2D5B","linkColor":"#FFFFFF"},"font":{"fontFamily":"SF Display"},"configs":{"themeKey":"default"},"christmas":{"musicUrl":"merry_christmas_ver3.mp3","snowName":"Snowflake3","backgroundAvatar":null,"backgroundProduct":null,"backgroundProductCategory":null,"backgroundProductCategory2":null,"backgroundHighLight":null,"enableMusic":false,"enableSnowflake":false,"highLightBorder":"#BDBDBD","useChristmas":false},"new_year":{},"lunar_new_year":{}}},"__N_SSP":true},"page":"/","query":{},"buildId":"QLyWx5N_tYVX9rivw5iMe","isFallback":false,"gssp":true,"scriptLoader":[]}</script></body></html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="theme-color" content="#000000" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Noto+Sans+SC&display=swap" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Noto+Sans+SC&display=swap"
+      media="print"
+      onload="this.media='all'"
+    />
+    <noscript>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans+SC&display=swap" />
+    </noscript>
+    <title>First.com</title>
+    <style type="text/css">
+      /* reset css */
+      html,
+      body,
+      div,
+      h1,
+      p,
+      a,
+      img {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+        vertical-align: baseline;
+      }
+
+      body {
+        line-height: 1;
+      }
+
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        overflow-x: hidden;
+        font-size: 10px;
+        background-color: #111212;
+        font-family: 'Noto Sans', sans-serif;
+        font-family: 'Noto Sans SC', sans-serif;
+        font-weight: 400;
+      }
+
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      a:visited {
+        text-decoration: none;
+      }
+    </style>
+    <style type="text/css">
+      .App {
+        display: flex;
+        flex-direction: column;
+        min-height: 100%;
+        position: relative;
+      }
+
+      @media (min-width: 481px) {
+        .App {
+          min-height: 76.8rem;
+        }
+      }
+
+      .Logo--center {
+        display: block;
+        text-align: center;
+      }
+
+      .MainPage {
+        display: flex;
+        flex-direction: column;
+        background: top/cover no-repeat url('images/background.jpeg');
+        color: #f7f4f3;
+        padding-top: 6.4rem;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        min-height: 100%;
+        height: 100vh;
+      }
+
+      @media (max-width: 479px) {
+        .MainPage {
+          min-height: 76.8rem;
+        }
+      }
+
+      .MainPage_logo {
+        width: 16rem;
+      }
+
+      .MainPage_wrapper {
+        margin-top: 18rem;
+        text-align: center;
+      }
+
+      @media (max-width: 479px) {
+        .MainPage_wrapper {
+          padding: 0 2.7rem;
+        }
+      }
+
+    .MainPage_image {
+        width: 32.0rem;
+      }
+
+      @media (max-width: 479px) {
+        .MainPage_image {
+          width: 16rem;
+        }
+      }
+
+      .MainPage_title {
+        font-family: Noto Sans SC;
+        font-size: 6.0rem;
+        font-weight: bold;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #ffffff;
+      }
+
+      .Page_phrase {
+        font-family: Noto Sans SC;
+        font-size: 2.4rem;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #ffffff;
+        margin: 1.6rem auto 0;
+        max-width: 68rem;
+      }
+
+      .MainPage_copyright {
+        font-family: Noto Sans SC;
+        font-size: 1.9rem;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: #ffffff;
+        margin: 1.6rem auto 0;
+        max-width: 48rem;
+        margin-top: auto;
+        text-align: center;
+        padding-bottom: 7.6rem;
+      }
+	  @media (max-width: 768px) {
+	  .MainPage_title {
+	  font-size: 38px !important;
+	  }
+	  .Page_phrase {
+	  font-size: 23px !important;
+	  }
+	  .MainPage_copyright {
+	  font-size: 18px !important;
+	  }
+	  }
+    </style>
+  </head>
+  <body cz-shortcut-listen="true">
+    <div id="root">
+      <div class="App">
+      <div class="MainPage">
+
+
+          <div class="MainPage_wrapper">
+
+            <h1 class="MainPage_title">First.com</h1>
+            <p class="Page_phrase">
+              First.com is reserved for our Future Project
+            </p></br></br></br>
+			<p id="MainPage_copyright" class="MainPage_copyright">© 2022 <a href="/cdn-cgi/l/email-protection#2a424f4646456a4c4358595e04494547"><span class="__cf_email__" data-cfemail="3b735e5757547b7d5249484f15585456">[email&#160;protected]</span></a></p>
+          </div>
+         </div>
+      </div>
+    </div>
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
