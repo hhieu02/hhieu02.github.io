@@ -2,7 +2,7 @@
 
    <head>
       <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
-      <title>Is my computer on fire?</title>
+      <title>HOANG MINH HIEU</title>
    </head>
 
    <body>
